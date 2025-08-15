@@ -146,18 +146,3 @@ The system can be customized through `config.py`:
 - **Embedding Models**: Adjust embedding model parameters
 - **Debug Settings**: Control application logging and debugging
 
-## 🤝 Contributing
-
-We welcome contributions! Feel free to:
-
-- Submit bug reports and feature requests
-- Create pull requests for improvements
-- Share feedback and suggestions
-
-## 📄 License
-
-This project is open source and available under the MIT License.
-
----
-
-**Built with ❤️ for intelligent document processing and AI-powered Q&A systems**
